@@ -1,6 +1,6 @@
 # Flight-Delay-Prediction-Pyspark
 
-### Technologies: Pyspark (ML API)-Linear Regression model, Random Forest Regressor model, Decision Tree
+### Technologies: Pyspark, Algorithms-Linear Regression model, Random Forest Regressor model, Decision Tree
 
 •	Created and deployed the solution to predict number of minutes the flight gets delayed based on distance, Carrier delay, Weather delay, NAS delay, Security delay in databricks using pyspark ML pipeline API
 
